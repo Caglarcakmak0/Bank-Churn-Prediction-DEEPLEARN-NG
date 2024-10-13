@@ -1,0 +1,1 @@
+Developed an Artificial Neural Network (ANN) model with 96% accuracy to predict customer churn for banks. This model analyzes various customer parameters to improve customer retention strategies, applying Exploratory Data Analysis (EDA) and data preprocessing techniques.
